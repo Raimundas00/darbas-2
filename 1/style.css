@@ -1,0 +1,38 @@
+body
+h2{
+    background-color: #58c2c7;
+    color: white;
+    text-align: center
+}
+h1{
+    background-color: #d3d4d9;
+    color: #010101;
+    text-align: center
+}
+h3{
+    background-color: #d3d4d9;
+    color: #090909;
+    text-align: center
+}
+p{
+    background-color: #ab2629;
+    color: white;
+    text-align: center
+  
+}
+button{
+    padding: 15px 32px;
+    margin: 0;
+    position: absolute;
+    top: 35%;
+    left: 47%
+}
+button:hover{
+    box-shadow: 5px 5px rgb(226, 223, 53), 10px 10px rgb(24, 177, 4), 15px 15px rgb(218, 52, 52);
+    background-color:rgb(250, 242, 242) ;
+    color: black;
+}
+.savebutton{
+    background-color: #252627;
+    color: white;
+}
